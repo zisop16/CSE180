@@ -1,0 +1,9 @@
+TODO:
+
+make navigator visit important coordinates, and spin
+
+make detector determine if people are at each coordinate position
+
+??????????
+
+Figure out how to import navigator :clown:
